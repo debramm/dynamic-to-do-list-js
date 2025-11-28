@@ -49,6 +49,5 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     });
 
-    // Invoke addTask on page load (as requested)
-    addTask();
+    
 });
